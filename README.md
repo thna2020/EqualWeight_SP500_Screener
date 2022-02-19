@@ -1,0 +1,1 @@
+# EqualWeight_SP500_Screener
