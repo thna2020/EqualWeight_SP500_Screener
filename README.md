@@ -1,1 +1,1 @@
-# EqualWeight_SP500_Screener
+# Equal-Weight S&P 500 Screener
